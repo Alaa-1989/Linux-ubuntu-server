@@ -324,7 +324,7 @@ application.secret_key = 'YOUR-SECRET-KEY'
 ```
 app = Flask(__name__)
 APP_PATH = '/var/www/catalog/catalog/'
-app.secret_key = '6KaqgcD1F24BCkp0QjnTQm1U'
+app.secret_key = 'your secret key'
 ```
 - Adding the path for json file
 ```
