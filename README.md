@@ -402,6 +402,10 @@ to ran the application file
 ## In the browser run this url:
 http://18.185.95.250.xip.io/
 
+## Useful commands
+To get log error messages from Apache server:
+`sudo tail /var/log/apache2/error.log`
+
 ## Author
 **Alaa Alaboud** - _GitHub Profile:_ [Alaa-1989](https://github.com/Alaa-1989)
 
