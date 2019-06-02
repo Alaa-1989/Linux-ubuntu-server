@@ -196,7 +196,12 @@ WHERE
 Then delete the database by this
 `DROP DATABASE catalog;`
 
+you can delete the user by this 
+`DROP USER catalog;`
 
+also you can delete the password for user by this
+`alter role postgres password null;`
+ 
 ## Python Version
 
 Use this in your code application file to see python version you used:
