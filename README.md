@@ -244,7 +244,7 @@ Install pyhton
 `sudo apt-get install python`
 
 Instal Virtual Environments
-`apt-get install python-virtualenv`
+`sudo apt-get install python-virtualenv`
 
 Install virtual environment for Python
 ```
@@ -265,6 +265,7 @@ sudo python -m pip install flask
 sudo python -m pip install psycopg2-binary
 sudo python -m pip install Pillow
 sudo -H python -m pip install oauth2client
+sudo python -m pip install requests
 ```
 log out from environment
 `deactivate`
