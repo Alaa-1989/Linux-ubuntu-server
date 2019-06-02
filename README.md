@@ -60,6 +60,8 @@ select **Connect using SSH** then do this steps to update and upgrade all curren
 ```
  sudo apt-get update
  sudo apt-get upgrade
+ sudo apt-get dist-upgrade
+ sudo apt install unattended-upgrades
 ```
 ## Change The Port For SSH To 2200
 edit the file **sshd_config** and locate the line `Port 22`
