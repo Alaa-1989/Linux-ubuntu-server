@@ -342,7 +342,7 @@ APPLICATION_NAME = "Item Catalog"
 ```
 - Change the engine with this code
 ```
-engine = create_engine('postgresql://catalog:alaa22@localhost/catalog')
+engine = create_engine('postgresql://catalog:alaa222@localhost/catalog')
 ```
 - Delete host and port fron app tun
 ```
@@ -354,14 +354,14 @@ if __name__ == '__main__':
 
 - Change the engine with this code
 ```
-engine = create_engine('postgresql://catalog:alaa22@localhost/catalog')
+engine = create_engine('postgresql://catalog:alaa222@localhost/catalog')
 ```
 
 ## In this file `seeder.py`
 
 - Change the engine with this code
 ```
-engine = create_engine('postgresql://catalog:alaa22@localhost/catalog')
+engine = create_engine('postgresql://catalog:alaa222@localhost/catalog')
 ```
 ## In this file `g_client_secret_.json`
 
